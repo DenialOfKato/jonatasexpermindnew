@@ -1,0 +1,1 @@
+<a href="{{ $link }}" {{ $attributes->merge(['class'=>'text-sm lg:text-base p-3 bg-green-600 font-extrabold uppercase flex uppercase text-center justify-center']) }}>{{ $text }}</a>
