@@ -11,7 +11,7 @@
   </div>
   <div class="grid lg:grid-cols-2 gap-8 items-center">
     <div class="lg:order-last">
-      <p>Apto para programas corporativos como Palestras e Treinamentos comportamentais.</p>
+      <p>Apto para programas corporativos como Palestras, Treinamentos, Vivencias, Eventos de igrejas em desenvolvimento humano.</p>
     </div>
     <div>
       <img src="{{asset('images/expert-mind/quem-sou-02.jpg')}}" alt="" class="rounded-3xl">
@@ -27,7 +27,7 @@
   </div>
   <div class="grid lg:grid-cols-2 gap-8 items-center">
     <div class="lg:order-last">
-      <p>Focado em ajudar empresários a ativarem suas equipes.</p>
+      <p>Focado em alavancar grupos e ajudar lideres para maior desempenho pessoal e profissional.</p>
     </div>
     <div>
       <img src="{{asset('images/expert-mind/quem-sou-04.jpg')}}" alt="" class="rounded-3xl">

@@ -1,7 +1,7 @@
 
   <div class="lg:w-6/12 mx-auto text-center">
     <img src="{{asset('images/expert-mind/logo.png')}}" alt="" class="w-8/12 mx-auto lg:w-8/12 mb-5">
-    <h1 class="text-3xl font-extrabold uppercase">Funcionários com uma mente especialista produz mais!</h1>
+    <h1 class="text-3xl font-extrabold uppercase">Pessoas com mentes especialistas produzem mais 🧠</h1>
   </div>
 
 <style scoped>
