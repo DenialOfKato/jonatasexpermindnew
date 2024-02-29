@@ -17,8 +17,7 @@
   <section id="desenvolva" class="bg-gradient-to-b from-red-600 to-blue-600 py-10 px-10 lg:px-0 space-y-10 text-white">
     @include('expert-mind.desenvolva')
   </section>
-  
-
-  
-
+  <section>
+    @include('expert-mind.botao-zap')
+  </section>
 @endsection

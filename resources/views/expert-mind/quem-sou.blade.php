@@ -25,12 +25,14 @@
       <img src="{{asset('images/expert-mind/quem-sou-03.jpg')}}" alt="" class="rounded-3xl">
     </div>
   </div>
-  <div class="grid lg:grid-cols-2 gap-8 items-center">
+  <div class="grid lg:grid-cols-2 gap-2 items-center">
     <div class="lg:order-last">
       <p>Focado em alavancar grupos e ajudar lideres para maior desempenho pessoal e profissional.</p>
     </div>
-    <div>
-      <img src="{{asset('images/expert-mind/quem-sou-04.jpg')}}" alt="" class="rounded-3xl">
+    <div class="md:ml-10 lg:ml-0 xl:ml-20">
+      <iframe width="360" height="640" src="https://www.youtube.com/embed/JwzzdCt3oeU?si=quX4gIL6Hj3EROHZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="rounded-3xl"></iframe>
     </div>
   </div>
+  <div>
+  </div>  
 </div>
